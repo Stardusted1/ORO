@@ -19,7 +19,6 @@
 
 **Результат:**
 
-![lab1](https://github.com/Stardusted1/ORO/blob/master/Lab_4_impulse.png)
 
 ## Лабораторна робота  № 2
 **Дано**:
@@ -33,7 +32,7 @@
 
 **Результат:**
 
-![lab2](https://github.com/Stardusted1/ORO/blob/master/Lab_4_impulse.png)
+
 
 ## Лабораторная робота № 3
 **Дано**:
@@ -49,7 +48,7 @@
 
 **Результат:**
 
-![lab3](https://github.com/Stardusted1/ORO/blob/master/Lab_4_impulse.png)
+
 
 ## Лабораторная робота № 4
 **Дано**:
